@@ -1,0 +1,7 @@
+torch>=2.0
+torchaudio
+pytorch-lightning>=2.0
+numpy
+scikit-learn
+soundfile
+librosa
